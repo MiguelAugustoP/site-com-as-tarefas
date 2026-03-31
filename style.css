@@ -1,0 +1,26 @@
+*{
+    padding: 1rem;
+    margin: 1rem;
+}
+body{
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: wheat;
+}
+h2{
+    text-align: center;
+    color: red;
+}
+.container{
+    text-align: center;
+}
+p{
+    text-indent: 50px;
+    font-size: larger;
+    color: white;
+    border: 1rem;
+}
+
+
